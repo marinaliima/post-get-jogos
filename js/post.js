@@ -64,7 +64,7 @@ try {
     return;
   }
 
-  if(respostaApi.ok){
+  if (respostaApi.ok) {
     resposta.textContent = `${resultado.title} foi cadastrado com sucesso.`;
     form.reset();
   }

@@ -75,4 +75,16 @@ button:hover {
 
 #resposta {
     text-align: center;
+    margin-top: 5px;
+}
+
+a {
+    margin-top: 15px;
+    color: #ec87c0;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #a652dac5;
 }
